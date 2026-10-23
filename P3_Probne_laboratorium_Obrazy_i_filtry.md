@@ -4,20 +4,6 @@
 
 **Czas:** 90 minut. **Suma punktów:** 12.
 
-## Podstawa rekonstrukcji
-
-Z przesłanego czatu wynika wskazówka o czterech plikach w pierwszym etapie i abstrakcyjnym indeksatorze dwuwymiarowym. Pierwsze zdjęcie zawiera podsumowanie o obrazie bazowym, dwóch reprezentacjach pikseli oraz filtrach funkcyjnych i macierzowych. Jest to relacja pośrednia, nie oryginalne polecenie. Drugie zdjęcie sugeruje około 12 krótkich plików rozwiązania. Nie traktujemy liczby linii dosłownie.
-
-Przyjęta rekonstrukcja: cztery typy obrazu/koloru w etapie 1, pięć typów filtrów funkcyjnych w etapie 2, trzy typy filtrów macierzowych w etapie 3 i integracja w etapie 4. Daje to 12 plików implementacji, bez Program.cs. Nazwy, sygnatury, reprezentacje danych, konkretne filtry i punktacja poniżej są autorską prognozą.
-
-Format nawiązuje do publicznych zadań P3: wprowadzenie, wymagania ogólne, etapy, sygnatury oraz punktacja. Materiał o raytracerze stanowi punkt wyjścia dla reprezentacji koloru, obrazu i dostępu przez indeksator. Filtry z tej prognozy są osobnym ćwiczeniem; publiczny etap 5 raytracera dotyczy Lambertiana i antyaliasingu.
-
-Źródła formatu i zakresu:
-
-- https://csharp.mini.pw.edu.pl/pl/labs/03.basics/
-- https://csharp.mini.pw.edu.pl/pl/labs/03.basics/example1/
-- https://csharp.mini.pw.edu.pl/pl/labs/lab03/
-
 ---
 
 ## Wprowadzenie
